@@ -6,7 +6,7 @@
 </p>
 
   About Me
--  Skilled in designing, developing, and maintaining full-stack applications** using MongoDB, Express.js, React, and Node.js 
+-  Skilled in designing, developing, and maintaining full-stack applications using MongoDB, Express.js, React, and Node.js 
 -  Experienced in building RESTful APIs, real-time applications, and creating responsive UIs  
 -  Strong focus on **performance optimization, scalable architecture, and seamless frontend-backend integration 
 -  Currently learning Amazon Web Services (AWS) and Docker to enhance cloud & DevOps skills  
